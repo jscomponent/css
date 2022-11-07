@@ -1,4 +1,4 @@
-# @adobe/css-tools
+# @jscomponent/css
 
 > This is a fork of the npm css package due to low maintenance
 
