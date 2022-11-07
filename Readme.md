@@ -6,7 +6,7 @@ CSS parser / stringifier.
 
 ## Installation
 
-    $ npm install css
+    $ npm install @jscomponent/css
 
 ## Usage
 
